@@ -65,7 +65,7 @@
     <name>${extension.name} API</name>
     <description>Project GlassFish Interceptor API</description>
     
-    <url>http://interceptors-spec.java.net</url>
+    <url>https://github.com/javaee/javax.interceptor</url>
 
     <developers>
         <developer>
@@ -79,13 +79,13 @@
     </developers>
 
     <organization>
-        <name>GlassFish Community</name>
-        <url>https://glassfish.java.net</url>
+        <name>Oracle Corporation</name>
+        <url>http://www.oracle.com/</url>
     </organization>
     <licenses>
         <license>
             <name>CDDL + GPLv2 with classpath exception</name>
-            <url>https://glassfish.dev.java.net/nonav/public/CDDL+GPL.html</url>
+            <url>https://oss.oracle.com/licenses/CDDL+GPL-1.1</url>
             <distribution>repo</distribution>
             <comments>A business-friendly OSS license</comments>
         </license>
@@ -107,7 +107,7 @@
     <scm>
         <connection>scm:git:https://github.com/javaee/javax.interceptor.git</connection>
         <developerConnection>scm:git:git@github.com:javaee/javax.interceptor.git</developerConnection>
-        <url>http://java.net/projects/glassfish/sources/svn/show/tags/javax.interceptor-api-1.2.1</url>
+        <url>https://github.com/javaee/javax.interceptor</url>
       <tag>1.2.1</tag>
   </scm>
 
