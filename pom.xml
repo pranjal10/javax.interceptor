@@ -94,22 +94,12 @@
         <system>Github</system>
         <url>https://github.com/javaee/javax.interceptor/issues</url>
     </issueManagement>
-    <mailingLists>
-        <mailingList>
-            <name>Interceptor Developer</name>
-            <archive>users@interceptors-spec.java.net</archive>
-        </mailingList>
-        <mailingList>
-            <name>EJB Developer</name>
-            <archive>users@ejb-spec.java.net</archive>
-        </mailingList>
-    </mailingLists>
     <scm>
         <connection>scm:git:https://github.com/javaee/javax.interceptor.git</connection>
         <developerConnection>scm:git:git@github.com:javaee/javax.interceptor.git</developerConnection>
         <url>https://github.com/javaee/javax.interceptor</url>
       <tag>1.2.1</tag>
-  </scm>
+    </scm>
 
     <build>
         <resources>
